@@ -9,3 +9,4 @@ def userSelection():
         
 print (userSelection())
 print (userPick)
+print("hi")
